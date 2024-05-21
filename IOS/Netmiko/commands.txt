@@ -1,0 +1,4 @@
+int loopback204
+ip address 172.16.104.1 255.255.255.0
+description Netmiko set file
+no shut
